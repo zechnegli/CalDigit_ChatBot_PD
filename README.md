@@ -16,7 +16,7 @@
    3. Resource Utilization:
       a. Efficient utilization of computing resources to optimize costs and performance.
     
-## Right now, there are two mainstream ways to train a customer support chatbot.
+## Currently, there are two mainstream approaches to training a customer support chatbot.
 1. Embedding-Based Search Tool with LLM (Retrieval-Augmented Generation - RAG):
     A method that breaks down information, converts it into vectors, 
     and uses a vector database to retrieve relevant data for generating intelligent and user-friendly chatbot responses.
