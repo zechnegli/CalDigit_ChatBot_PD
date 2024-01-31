@@ -88,9 +88,9 @@
       - Assess the fine-tuned model's performance with real-world data relevant to the intended application.
       - Real-world testing provides insights into the model's practical utility.
 
-### Both requires the following steps: 
+### Both require the following steps: 
 
-   1. **Deployment (Optional):**
+   1. **Deployment:**
       - Deploy the fine-tuned model for integration into applications or services.
       - Deployment makes the model available for generating responses to user queries.
 
