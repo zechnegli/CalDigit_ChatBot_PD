@@ -138,7 +138,7 @@
 The most time-consuming part is to create clean structured data. Without good data, our chatbot won't respond with accurate messages. 
 That is why we need time to do both manually and automatically to complete those steps in order to get high-quality data.
 
-### Structued Data format:
+### Structured Data format:
    {
      "questions": ["What is your name?", "How can I help you?"],
      "answers": ["I am ChatGPT, a virtual assistant.", "You can ask me about various topics."]
