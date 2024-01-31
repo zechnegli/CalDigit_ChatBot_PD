@@ -7,7 +7,7 @@
    5. Capability to understand and respond in multiple languages to cater to a diverse user base
    6. Proper handling of errors and the ability to gracefully manage situations where user queries cannot be processed
 
-# Non-Functional Requirement 
+## Non-Functional Requirement 
    1. Performance:
       2. a. The chatbot should respond promptly, with low latency, ensuring a seamless user experience 
       3. b. It should be capable of handling a specified number of concurrent users and messages
