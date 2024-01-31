@@ -88,15 +88,17 @@
       - Assess the fine-tuned model's performance with real-world data relevant to the intended application.
       - Real-world testing provides insights into the model's practical utility.
 
-   9. **Deployment (Optional):**
+### Both requires the following steps: 
+
+   1. **Deployment (Optional):**
       - Deploy the fine-tuned model for integration into applications or services.
       - Deployment makes the model available for generating responses to user queries.
 
-   10. **Monitoring and Maintenance (Post-Deployment):**
+   2. **Monitoring and Maintenance (Post-Deployment):**
        - Implement monitoring mechanisms to track the model's performance in real-world scenarios.
        - Periodically reevaluate and update the model to maintain relevance and effectiveness.
 
-   11. **User Feedback and Iterative Improvement:**
+   3. **User Feedback and Iterative Improvement:**
        - Collect feedback from users interacting with the model.
        - Use user feedback to identify areas for improvement and guide further iterations.
 
