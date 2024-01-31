@@ -1,20 +1,20 @@
 # Customer support Chatbot Product Documentation
 ## Functional Requirement 
-   1. The chatbot should support user authentication to verify the identity of users
-   2. The ability to initiate and maintain natural and context-aware conversations with users
-   3. Interpretation of natural language input from users
-   4. Identify the user's intent based on their input
-   5. Capability to understand and respond in multiple languages to cater to a diverse user base
-   6. Proper handling of errors and the ability to gracefully manage situations where user queries cannot be processed
+   1. User Authentication: Securely confirm the identity of users.
+   2. Engaging Conversations: Make the chatbot capable of having natural and meaningful chats.
+   3. Understanding Language: Help the chatbot comprehend and process what users say in a natural way.
+   4. Knowing User Intent: Figure out what users want based on what they say for providing relevant answers.
+   5. Language Support: Let the chatbot talk and understand users in different languages.
+   6. Handling Mistakes: Ensure the chatbot can deal well with situations where it doesn't understand what the user is asking.
 
 ## Non-Functional Requirement 
    1. Performance:
-      a. The chatbot should respond promptly, with low latency, ensuring a seamless user experience 
-      b. It should be capable of handling a specified number of concurrent users and messages
+      a. Quick Responses: Make sure the chatbot answers fast for a smooth experience.
+      b. Handle Many Users: Allow the chatbot to chat with lots of people at the same time.
    2. Reliability:
-      a. The chatbot should be available and reliable, with a high uptime percentage
-   3. Resource Utilization:
-      a. Efficient utilization of computing resources to optimize costs and performance.
+      a. Always Available: Keep the chatbot working most of the time without any issues.
+   3. Using Resources Wisely:
+      b. Efficient Computing: Use computer resources smartly to save money and make things work well.
     
 ## Currently, there are two mainstream approaches to training a customer support chatbot.
 1. Embedding-Based Search Tool with LLM (Retrieval-Augmented Generation - RAG):
@@ -130,10 +130,10 @@
 ![img.png](img.png)
     
 # Timeline to create chatbot:
-   1. Data Pipeline: 1.5 months
-   2. Vectorized Database Creation: 1 month
-   3. OpenAPI Integration (ChatGPT): 1 month
-   4. Testing and Maintenance: 1 month
+   1. Data Pipeline: 3-5 weeks
+   2. Vectorized Database Creation: 2-3 weeks
+   3. OpenAPI Integration (ChatGPT): 1-2 weeks
+   4. Testing and Maintenance: 2-3 weeks
 
 The most time-consuming part is to create clean structured data. Without good data, our chatbot won't respond with accurate messages. 
 That is why we need time to do both manually and automatically to complete those steps in order to get high-quality data.
