@@ -9,12 +9,12 @@
 
 ## Non-Functional Requirement 
    1. Performance:
-      2. a. The chatbot should respond promptly, with low latency, ensuring a seamless user experience 
-      3. b. It should be capable of handling a specified number of concurrent users and messages
+      a. The chatbot should respond promptly, with low latency, ensuring a seamless user experience 
+      b. It should be capable of handling a specified number of concurrent users and messages
    2. Reliability:
-      3. The chatbot should be available and reliable, with a high uptime percentage
+      a. The chatbot should be available and reliable, with a high uptime percentage
    3. Resource Utilization:
-      4. Efficient utilization of computing resources to optimize costs and performance.
+      a. Efficient utilization of computing resources to optimize costs and performance.
     
 ## Right now, there are two mainstream ways to train a customer support chatbot.
 1. Embedding-Based Search Tool with LLM (Retrieval-Augmented Generation - RAG):
